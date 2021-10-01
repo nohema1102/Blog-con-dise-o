@@ -1,0 +1,98 @@
+.logotipo{
+    display: block;
+    margin:auto
+    
+    
+}
+
+
+.navbar .navbar-link{
+    color: white;
+    text-decoration: none;
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 25px; 
+    line-height: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;  
+}
+
+.navbar > ul {
+    list-style-type: none;
+    padding-left: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+ 
+}
+.navbar  .navbar-option{
+    width: 24.6%;
+    float: right;
+    text-align: center;
+    background-color:rgb(42, 227, 171);
+
+    height: 100%;
+    margin-right: 5px;
+
+}
+.navbar{
+    height: 45px
+}
+.navbar > ul{
+
+    height: 100%;
+}
+.menu{
+    padding-left: 15px;
+   
+    
+}
+
+.menu .componentes-menu{
+    text-align: center;
+    background-color:rgb(42, 227, 171);
+    list-style-type: none;
+    width: 32.3%;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    float: left;
+    margin-right: 12px;
+    margin-bottom: 60px;
+
+}
+.lista{
+    margin-top: 70px;
+}
+.comentarios{
+    margin-top: 350px;
+}
+/* Bebidas */
+.bebidas-nombres{
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    background-color:rgb(42, 227, 171);
+}
+/* Postres */
+.postres-nombres{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:rgb(42, 227, 171) ;
+}
+/* Niños */
+.paraNiños-nombres{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:rgb(42, 227, 171) ;
+    
+}
+.pie-pagina{
+   text-align: left;
+   
+    
+}
